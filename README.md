@@ -1,3 +1,6 @@
+# Typescript conversion of THREE.MeshLine
+The default readme remains below:
+
 # MeshLine
 Mesh replacement for ```THREE.Line```
 

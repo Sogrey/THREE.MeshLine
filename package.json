@@ -27,5 +27,12 @@
   "bugs": {
     "url": "https://github.com/spite/THREE.MeshLine/issues"
   },
-  "homepage": "https://github.com/spite/THREE.MeshLine#readme"
+  "homepage": "https://github.com/spite/THREE.MeshLine#readme",
+  "dependencies": {
+    "three": "^0.111.0"
+  },
+  "devDependencies": {
+    "tslint": "^5.20.1",
+    "typescript": "^3.7.3"
+  }
 }
